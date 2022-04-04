@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @nicolasrodriguez3
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and JS
+# 👋 Hola! Soy Nicolás Rodríguez!
+Futuro programador 👨🏻‍💻 
+- 💻 Actualmente aprendiendo JavaScript y React⚛️
+- ✔️ Conocimientos en HTML, CSS, Git, Sass, y Bootstrap
+
+Te invito a conectar en [LinkedIn](https://www.linkedin.com/in/nirodriguez/)!
+
+Muchas gracias!
 
 
 <!---
