@@ -1,7 +1,7 @@
 # 👋 Hola! Soy Nicolás Rodríguez!
-Futuro programador 👨🏻‍💻 
-- 💻 Actualmente aprendiendo JavaScript y React⚛️
-- ✔️ Conocimientos en HTML, CSS, Git, Sass, y Bootstrap
+Frontend developer 👨🏻‍💻 
+- 💻 Actualmente aprendiendo React⚛️
+- ✔️ Conocimientos en JavaScript, HTML, CSS, Git, Sass, y Bootstrap
 
 Te invito a conectar en [LinkedIn](https://www.linkedin.com/in/nirodriguez/)!
 
