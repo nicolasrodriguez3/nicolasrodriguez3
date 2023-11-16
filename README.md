@@ -1,6 +1,7 @@
 # 👋 Hola! Soy Nicolás Rodríguez!
 Frontend developer 👨🏻‍💻 
-- 💻 Actualmente aprendiendo React⚛️ y Java☕
+
+- 💻 Actualmente aprendiendo React⚛️ y NodeJS  
 - ✔️ Conocimientos en JavaScript, HTML, CSS, Git, Sass, y Bootstrap
 
 Te invito a conectar en [LinkedIn](https://www.linkedin.com/in/nirodriguez/)!
